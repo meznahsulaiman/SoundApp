@@ -13,7 +13,7 @@ import android.view.View;
 
 public class MainActivity extends ActionBarActivity {
 //share this project
-
+ int i=0;
     SoundPool mySound ;
     int alertId;
 
